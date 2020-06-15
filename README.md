@@ -5,7 +5,9 @@ Honours Cognitive Science Thesis under the B.A. & Sc. Program
 Supervisor: Dr. Sylvain Baillet, NeuroSPEED Lab, Montreal Neurological Institute
 
 
-Ttle: Time-Resolved Phase-Amplitude Coupling (PAC) in the Brain's Resting-State 
+TITLE 
+
+Time-Resolved Phase-Amplitude Coupling (PAC) in the Brain's Resting-State 
 Network using Magnetoencephalography (MEG)
 
 
