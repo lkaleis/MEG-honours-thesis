@@ -1,7 +1,9 @@
 # MEG-honours-thesis
 
 McGill University 2015-2016
+
 Honours Cognitive Science Thesis under the B.A. & Sc. Program
+
 Supervisor: Dr. Sylvain Baillet, NeuroSPEED Lab, Montreal Neurological Institute
 
 
